@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class mortgage_calculator {
+public class Mortgage_calculator {
         public static void main(String[] args) {
                 // Collect general information about the user.
                 // from firstName to zipCode the info wont be used for calculations
